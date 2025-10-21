@@ -1,7 +1,12 @@
 <!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Mariam+👋;Front-End+%26+Cross-Platform+Developer;Passionate+About+Clean+UI+and+UX" alt="Typing SVG" />
-</h1>
+<!-- Static Welcome Section -->
+<h1 align="center">👋 Hey there! Welcome to my GitHub Profile!</h1>
+
+<!-- Animated Intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=800&lines=I'm+Mariam+✨;Front-End+%26+Cross-Platform+Developer;Building+modern+apps+using+React%2C+React+Native+%26+Flutter;Passionate+about+creating+clean+UI+and+great+UX+💻" alt="Typing SVG" />
+</h2>
+
 
 ---
 
