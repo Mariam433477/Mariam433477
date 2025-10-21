@@ -1,29 +1,21 @@
-<!-- 👋 Static Welcome Message -->
+ 
 <h1 align="center">
   Hey there! Welcome to my GitHub Profile 👋
 </h1>
+ 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="waving hand" />
 
-<!-- 🌸 Intro Section -->
-<div align="center">
-
-  <!-- 👋 Animated Hand -->
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="70px" alt="waving hand" />
-
-  <!-- ✨ Name -->
   <h2>
     I'm <span style="color:#00C8FF;">Mariam Ehab Mohamed</span> ✨
   </h2>
 
-  <!-- 💻 Role -->
   <h3>
     A Front-End Developer and Cross-Platform Developer 💻
   </h3>
 
-  <!-- ⚡ Description -->
   <h3>
     I build modern web and mobile apps using <b>React</b>, <b>React Native</b>, and <b>Flutter</b> ⚡
   </h3>
-
 </div>
 
 <!-- 🌈 Stylish Separator Line -->
