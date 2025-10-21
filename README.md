@@ -1,11 +1,17 @@
-<!-- Animated Header -->
-<!-- Static Welcome Section -->
-<h1 align="center">👋 Hey there! Welcome to my GitHub Profile!</h1>
+<!-- 👋 Static Welcome Message -->
+<h1 align="center">
+  Hey there! Welcome to my GitHub Profile 👋
+</h1>
 
-<!-- Animated Intro -->
+<!-- ✨ Static Name Section -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=800&lines=I'm+Mariam+✨;Front-End+%26+Cross-Platform+Developer;Building+modern+apps+using+React%2C+React+Native+%26+Flutter;Passionate+about+creating+clean+UI+and+great+UX+💻" alt="Typing SVG" />
+  I'm <span style="color:#00C8FF;">Mariam Ehab</span> ✨
 </h2>
+
+<!-- ⚡ Animated Role Section -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=A+Front-End+Developer+and+Cross-Platform+Developer+💻;I+build+modern+web+and+mobile+apps+using+React%2C+React+Native%2C+and+Flutter+⚡" alt="Typing Animation" />
+</h3>
 
 
 ---
