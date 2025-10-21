@@ -7,7 +7,7 @@
 <div align="center">
 
   <!-- 👋 Animated Hand -->
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="45px" alt="waving hand" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="50px" alt="waving hand" />
 
   <!-- ✨ Name -->
   <h2>
