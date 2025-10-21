@@ -29,8 +29,8 @@
 
 
 <!-- ⚡ Animated Role Section -->
-<div>
-<h3 align="center">
+<div align="center">
+<h3 >
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Front-End+Developer+💻;Cross-Platform+Developer+📱;Using+React%2C+React+Native%2C+and+Flutter+⚡;Building+Modern+Apps+with+Beautiful+UI+🎨" alt="Typing Animation" />
 </h3>
 
@@ -56,7 +56,7 @@
 
 ### 💼 Featured Projects  
 - 🌿 **E-Commerce Website** – React.js + Bootstrap | Responsive, reusable components  
-- 📱 **Shopping App** – Flutter | Cart, favorites, Firebase integration  
+- 📱 **Generic Website** – React.js + Bootstrap | Responsive, reusable components
 - ⚙️ **CRUD System** – React.js + JSON Server | Full CRUD operations  
 
 ---
