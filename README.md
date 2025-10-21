@@ -4,14 +4,32 @@
 </h1>
 
 <!-- ✨ Static Name Section -->
+<!-- 👋 Animated Hand -->
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="45px" alt="waving hand" />
+</h1>
+
+<!-- ✨ Name Section -->
 <h2 align="center">
-  I'm <span style="color:#00C8FF;">Mariam Ehab</span> ✨
+  I'm <span style="color:#00C8FF;">Mariam Ehab Mohamed</span> ✨
 </h2>
+
+<!-- 💻 Role -->
+<h3 align="center">
+  A Front-End Developer and Cross-Platform Developer 💻
+</h3>
+
+<!-- ⚡ Description -->
+<h3 align="center">
+  I build modern web and mobile apps using <b>React</b>, <b>React Native</b>, and <b>Flutter</b> ⚡
+</h3>
+
 
 <!-- ⚡ Animated Role Section -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=A+Front-End+Developer+and+Cross-Platform+Developer+💻;I+build+modern+web+and+mobile+apps+using+React%2C+React+Native%2C+and+Flutter+⚡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Front-End+Developer+💻;Cross-Platform+Developer+📱;Using+React%2C+React+Native%2C+and+Flutter+⚡;Building+Modern+Apps+with+Beautiful+UI+🎨" alt="Typing Animation" />
 </h3>
+
 
 
 ---
