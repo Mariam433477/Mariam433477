@@ -7,7 +7,7 @@
 <div align="center">
 
   <!-- 👋 Animated Hand -->
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="50px" alt="waving hand" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="70px" alt="waving hand" />
 
   <!-- ✨ Name -->
   <h2>
@@ -29,10 +29,12 @@
 
 
 <!-- ⚡ Animated Role Section -->
+<div>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Front-End+Developer+💻;Cross-Platform+Developer+📱;Using+React%2C+React+Native%2C+and+Flutter+⚡;Building+Modern+Apps+with+Beautiful+UI+🎨" alt="Typing Animation" />
 </h3>
 
+</div>
 
 
 ---
